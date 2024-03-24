@@ -3,6 +3,8 @@
 ## Description
 DuinoView is a project created by ByteBoss that allows the visualization of all the public information of a user registered on the Duino-Coin platform. This script displays the Duino-Coin account data of a user.
 
+### Buy me a coffee in duino coin or BTC so I can continue programming hard =) : Duino-Coin( "synieztro" ), BTC( 3Q9T97vQrnCrXDsvo26xqUtXjzgyoGHfum )
+
 ## Installation
 To run this script, you will need Python and some libraries. You can install the dependencies with:
 
