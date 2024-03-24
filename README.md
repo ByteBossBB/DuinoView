@@ -7,7 +7,7 @@ DuinoView is a project created by ByteBoss that allows the visualization of all 
 To run this script, you will need Python and some libraries. You can install the dependencies with:
 
 ```bash
-pip install requests
+pip install requests colorama
 ```
 
 ## Usage
